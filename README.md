@@ -16,7 +16,7 @@ This is my first Power BI dashboard project where I explored restaurant data to 
 Zomato  dataset sourced from Kaggle  
 
 ## 📸 Dashboard Preview
-![Dashboard] (dashboard-preview.png)
+![Dashboard](dashboard-preview.png)
 
 ## 💡 What I Learned
 - Data cleaning using Power Query  
